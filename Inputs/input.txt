@@ -1,0 +1,2 @@
+requestTransactions Inputs/multiple_transactions.txt
+exit
